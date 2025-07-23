@@ -8,9 +8,13 @@ The WorkPulse Dashboard provides comprehensive insights into employee attrition 
 
 ## 3. Tech Stack
 • Power BI Desktop – Dashboard creation, DAX formulas, interactive visuals
+
 • Power Query Editor – Data cleaning and transformation
+
 • DAX (Data Analysis Expressions) – KPI calculations and logic-based visuals
+
 • Custom Visualizations – Donut charts, bar graphs, line charts, slicers
+
 • .pbix File Format – For report sharing and editing
 
 ## 4. Data Source
