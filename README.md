@@ -114,5 +114,4 @@ Helped HR refine engagement and retention strategies for critical roles
 Provided an evidence-based foundation for compensation restructuring and onboarding changes
 
 ## 6. Screenshots / Demos
-Dashboard Screenshot (Replace with actual GitHub link)
-
+https://github.com/Asim0002/HR-ANALYTICS-DASHBOARD/blob/main/Dashboard-Screenshot.png
